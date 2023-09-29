@@ -155,7 +155,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
             class="img-fluid rounded shadow-lg"
             height="auto"
             width="300px"
-            src="assets/profile.jpg"
+            src="assets/profile.jpeg"
             alt="Profile Image"
           />
         </div>
@@ -174,7 +174,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
               rel="noreferrer"
               target="_blank"
               class="cta-btn cta-btn--resume"
-              href="assets/resume.pdf"
+              href="assets/Resume.pdf"
             >
               View Resume
             </a>
